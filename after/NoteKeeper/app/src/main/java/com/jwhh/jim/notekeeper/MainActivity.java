@@ -1,4 +1,4 @@
-package com.jwhh.jim.notekeeper;
+package com.gladstar.ekoyamu.notekeeper;
 
 import android.content.Intent;
 import android.os.Bundle;
