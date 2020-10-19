@@ -1,0 +1,116 @@
+{
+  "project_info": {
+    "project_number": "61216389060",
+    "firebase_url": "https://marine-infinity-244511.firebaseio.com",
+    "project_id": "marine-infinity-244511",
+    "storage_bucket": "marine-infinity-244511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61216389060:android:7a3d67c6976744c04b5691",
+        "android_client_info": {
+          "package_name": "com.gladstar.ekoyamu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61216389060-4u847t7dkd80gbvrlk1turov9npmgpmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVgTBrHMK808-huXDbEsx5nDmyPwbxiLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61216389060-mbf3so0kj16m9alo4essetorvspqm4rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61216389060:android:c8b1ad26923b89914b5691",
+        "android_client_info": {
+          "package_name": "com.wGladstarGTSchool_9279984"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61216389060-8aup66ml2kc8ehdb5nn0na7tdulkqd56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wGladstarGTSchool_9279984",
+            "certificate_hash": "8ca92cda8d79fb837bcbe421440306b4df98e284"
+          }
+        },
+        {
+          "client_id": "61216389060-4u847t7dkd80gbvrlk1turov9npmgpmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVgTBrHMK808-huXDbEsx5nDmyPwbxiLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61216389060-mbf3so0kj16m9alo4essetorvspqm4rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7518766331039540~6605244132"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61216389060:android:48b4f7a37a316613",
+        "android_client_info": {
+          "package_name": "com.wGladstarGiftedandTalentedSchool_9453692"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61216389060-91dfgib8h0a12h93l763na0h9k6r2hu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wGladstarGiftedandTalentedSchool_9453692",
+            "certificate_hash": "6a11abe5aef79399784b0c9b7e13834fe6049b56"
+          }
+        },
+        {
+          "client_id": "61216389060-4u847t7dkd80gbvrlk1turov9npmgpmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVgTBrHMK808-huXDbEsx5nDmyPwbxiLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61216389060-mbf3so0kj16m9alo4essetorvspqm4rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7518766331039540~2240433268"
+    }
+  ],
+  "configuration_version": "1"
+}
